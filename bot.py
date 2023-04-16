@@ -1,7 +1,7 @@
 import openai
 
 # Set OpenAI API key
-openai.api_key = "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"
+openai.api_key = "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"
 
 # Create an empty list to store conversation messages
 messages = []

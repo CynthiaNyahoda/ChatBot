@@ -3,7 +3,7 @@ import openai
 
 
 #  setting the API key that will be used to authenticate the requests to the OpenAI API.
-openai.api_key = "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"
+openai.api_key = "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"
 
 
 # creating a new chat completion request and providing a prompt to the model in the form of a message from a user
